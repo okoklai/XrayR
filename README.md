@@ -64,7 +64,7 @@ A Xray backend framework that can easily support many panels.
 ### 一键安装
 
 ```
-wget -N https://raw.githubusercontents.com/Misaka-blog/XrayR-script/master/install.sh && bash install.sh
+wget -N https://raw.githubusercontents.com/newxrayr/XrayR-script/main/install.sh && bash install.sh
 ```
 
 ### 使用Docker部署
@@ -88,14 +88,10 @@ wget -N https://raw.githubusercontents.com/Misaka-blog/XrayR-script/master/insta
 
 ## Licence
 
-[Mozilla Public License Version 2.0](https://github.com/XrayR-project/XrayR/blob/master/LICENSE)
+[Mozilla Public License Version 2.0](https://github.com/newxrayr/XrayR/blob/master/LICENSE)
 
 ## Telgram
 
 [XrayR后端讨论](https://t.me/XrayR_project)
 
 [XrayR通知](https://t.me/XrayR_channel)
-
-## Stars 增长记录
-
-[![Stargazers over time](https://starchart.cc/Misaka-blog/XrayR.svg)](https://starchart.cc/Misaka-blog/XrayR)
